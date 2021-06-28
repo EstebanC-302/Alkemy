@@ -1,0 +1,42 @@
+{
+    "todos": [
+        {
+            "title": "Superheroe 1",
+            "responsible": "Mark",
+            "descripcion": "Lorem Impum",
+            "priority": "high"
+        }, 
+
+        {
+            "title": "Superheroe 2",
+            "responsible": "Carlos",
+            "descripcion": "Lorem Impum",
+            "priority": "high"
+        }, 
+        {
+            "title": "Superheroe 3",
+            "responsible": "joseph",
+            "descripcion": "Lorem Impum",
+            "priority": "high"
+        }, 
+        {
+            "title": "Superheroe 4",
+            "responsible": "Andres",
+            "descripcion": "Lorem Impum",
+            "priority": "bad"
+        }, 
+        {
+            "title": "Superheroe 5",
+            "responsible": "Hector",
+            "descripcion": "Lorem Impum",
+            "priority": "bad"
+        }, 
+        {
+            "title": "Superheroe 6",
+            "responsible": "Maria",
+            "descripcion": "Lorem Impum",
+            "priority": "bad"
+        }    
+        
+    ]
+}
